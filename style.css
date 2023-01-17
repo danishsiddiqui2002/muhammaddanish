@@ -176,6 +176,10 @@ header .follow a:hover{
     color:var(--main-color);
 }
 
+.home .content .content-box{
+    text-align:justify;
+    }
+
 .home .content h3{
     font-size: 3.5rem;
     color:#111;
